@@ -1,5 +1,4 @@
 # Credit-card-Dashboard
-# Credit Card Dashboard
 
 ## Overview
 The **Credit Card Dashboard** is a Power BI tool designed to provide actionable insights into credit card transactions and customer behavior. It helps businesses and financial institutions monitor performance, identify trends, and make data-driven decisions.
