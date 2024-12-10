@@ -17,18 +17,4 @@ The **Coffee Sales Dashboard** is a comprehensive tool designed to analyze and v
 - Peak sales times (e.g., by hour or day).
 - Store performance comparisons.
 
-#### Usage
-1. **Data Preparation**: Ensure your transaction data is formatted similarly to the **Transactions** sheet.
-2. **Analysis**: Use the **Pivot** sheet for quick summaries or the **Dashboard** sheet for visualization templates.
-3. **Customization**: Adapt the provided Excel template to your unique business needs.
 
-#### Requirements
-- Microsoft Excel (2016 or later recommended).
-- Basic knowledge of Excel formulas and pivot tables.
-
-#### How to Use
-1. Upload your sales data to the **Transactions** sheet.
-2. Refresh the pivot tables in the **Pivot** sheet.
-3. Update the **Dashboard** with relevant charts or visuals.
-
-Would you like to expand this with additional details or a specific focus?
