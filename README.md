@@ -1,33 +1,4 @@
 # Credit-card-Dashboard
-You've uploaded a file named **Coffee Sales Dashboard.xlsx**. To create a summary for a GitHub README, I need to understand the content and purpose of the dashboard. I'll analyze the file to identify its structure, key metrics, and any visual elements included. Let me extract the details.
-
-The Excel file contains three sheets: 
-
-1. **Transactions**: Likely contains raw sales data.
-2. **Pivot**: Might include summarized data or pivot tables.
-3. **Dashboard**: Potentially includes visuals or a summarized view.
-
-I'll start by inspecting each sheet briefly to gather more details.
-
-### Overview of Sheets
-
-1. **Transactions**: Contains detailed sales data, including transaction ID, date, store location, product information, quantities sold, and total bill. The data is rich with fields such as product category, type, size, and time-based breakdown (e.g., month, day, hour).
-
-2. **Pivot**: Appears to summarize sales data by various dimensions such as day of the week, product type, and regional sales, though it includes some columns without clear headers.
-
-3. **Dashboard**: Mostly blank or non-informative, possibly intended as a template for visualization.
-
-### Next Steps
-To create a GitHub README summary, I'll highlight:
-- The purpose of the dashboard.
-- Key metrics and insights it can provide.
-- Any dependencies or setup required for usage.
-
-Let me draft the README outline.
-
-## GitHub README Summary for Coffee Sales Dashboard
-
-### Coffee Sales Dashboard
 
 #### Overview
 The **Coffee Sales Dashboard** is a comprehensive tool designed to analyze and visualize sales data for a coffee business. It integrates transaction-level data, summarized pivot tables, and customizable dashboards to provide actionable insights for decision-makers.
