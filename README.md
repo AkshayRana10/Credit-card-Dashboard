@@ -23,18 +23,12 @@ The **Credit Card Dashboard** is a Power BI tool designed to provide actionable 
 - Identify high-performing customer segments and growth opportunities.
 - Optimize product offerings based on customer spending habits.
 
-## How to Use
-1. **Requirements**:
-   - Power BI Desktop (latest version recommended).
-   - Dataset including transaction, customer, and financial data.
 
 2. **Steps**:
    - Open the `credit card dashboard.pbix` file in Power BI Desktop.
    - Connect your dataset or refresh the existing data model.
    - Explore the interactive dashboard to uncover insights.
 
-3. **Customization**:
-   - Add or modify visuals to tailor the dashboard to specific business needs.
 
 ## Visualizations Included
 - Bar and line charts for quarterly trends.
@@ -42,14 +36,5 @@ The **Credit Card Dashboard** is a Power BI tool designed to provide actionable 
 - Tables summarizing key financial metrics.
 - Geographic heat maps for state-level insights.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
-## Contributions
-Contributions are welcome! Please fork this repository and submit a pull request with your updates.
-
----
-
-Would you like to include any additional details, such as images or a usage video link, for the README? Let me know! 
 
 
